@@ -1,6 +1,6 @@
-|          PACKAGE           |                              SOURCE                              |
-|----------------------------|------------------------------------------------------------------|
-| go.fergus.london/commander | [github.com/FergusInLondon/](https://github.com/FergusInLondon/) |
+|               PACKAGE                |                                                 SOURCE                                                 |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------|
+| go.fergus.london/distributed-toolkit | [github.com/FergusInLondon/distributed-toolkit](https://github.com/FergusInLondon/distributed-toolkit) |
 
 ---
 
