@@ -1,3 +1,5 @@
 packages:
   github.com/FergusInLondon/distributed-toolkit:
     path: go.fergus.london/distributed-toolkit
+  github.com/FergusInLondon/go-supervise:
+    path: go.fergus.london/go-supervise
